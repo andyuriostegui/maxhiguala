@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+*.log
+.env*.local
+data/prices.json
+public/media/lv_0_*.mp4
+public/media/PXL_*.mp4
